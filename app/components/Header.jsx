@@ -17,6 +17,10 @@ const Header = () => {
         {
             label: "FAQ",
             href: "/about/faq"
+        },
+        {
+            label: "Posts",
+            href: "/posts"
         }
     ]
     return (
