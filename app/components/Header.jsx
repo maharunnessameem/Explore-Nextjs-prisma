@@ -21,7 +21,11 @@ const Header = () => {
         {
             label: "Posts",
             href: "/posts"
-        }
+        },
+        {
+            label: "Crud",
+            href: "/crud"
+        },
     ]
     return (
         <div>
